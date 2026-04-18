@@ -6,6 +6,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![NIST PQC](https://img.shields.io/badge/NIST-Post--Quantum-purple.svg)](https://csrc.nist.gov/projects/post-quantum-cryptography)
 
+![QuantumMigrate demo — scanning paramiko and pycryptodome](demo.gif)
+
 ---
 
 ## Why This Matters Now
